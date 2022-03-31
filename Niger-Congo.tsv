@@ -1,0 +1,208 @@
+ № 	English 	Yoruba 	Igbo 	Mandinka 	Wolof 	Fula 	Jango 	Vai 	Lang8
+1 	I 	émi, mo 	mụ 	m, n 	ma 	mi 	mi 	ŋ 	
+2 	you (singular) 	ìwọ, ọ (informal); ẹ̀yín (formal) 	gị 	ali, i 	nga 	a 	é 	í 	
+3 	he 	ó, òun 	yá 	a 	mu 	o (mo) 	o 	a 	
+4 	we 	àwa, a 	ányìnwà (incl.), ányì-nílé (excl.), 	an 	nu 	en (incl.), min/men (excl.) 	an 	mú 	
+5 	you (plural) 	ẹ̀yin 	únù-nílé 	aw 	ngeen 	on 	un 	wó 	
+6 	they 	àwọn 	há 	u 	ñu 	ɓe 	wèn 	anú 	
+7 	this 	eléyí, èyí 		ñing 	lii 	ɗun 	di 	kɛ mɛɛ̃ 	
+8 	that 	èyí, èyítí, ohun tí 		woo 	lele, lale 	ɗun 	da 	kɛnú 	
+9 	here 	ibí, níhàyín 		jang 	fi 	ɗoo 	jò 	nínyɛ 	
+10 	there 	lọhun, nibẹ 		jee 	fa 	ton 		núũ 	
+11 	who 	tani, ẹnití 			kan 	homo, hommbo (plural: homɓe) 	kòn 	jɔ 	
+12 	what 	kíni, kínlá, èwo 			lan 	koɗun, honnɗun 	sìn 	mɓe 	
+13 	where 	ibo, níbo, níbití 			ana, fan 	hoto, toye 		mínyá 	
+14 	when 	ìgbàtí 			kañ 	mannde, honnde, ndeye 		mínyá banda 	
+15 	how 	bí, báwo 	naka 	ñaadii 	naka 	honno, noye 	nò 	káma 	
+16 	not 	kò, kì 	déedéet 		du, bu, déedéet 	alaa 	na'a 	máã 	
+17 	all 	gbogbo, olúkúlùkú 		bee 	lëpp, yëpp 	fow, fop, fuu 	pèpè 	kínɛ́ĩ 	
+18 	many 	púpọ̀, pọ̀, ọ̀pọ̀lọpọ̀ 				buy, ɗuɗaal 		kúluŋ ɓa 	
+19 	some 	díẹ, kan, àwọn kan 			ay 	yoga 		ɓɔ́ɔ 	
+20 	few 	díẹ 			tuuti 	seeɗa 		kpɔ́ fɛlá 	
+21 	other 	òmíràn, míràn 			beneen 	go'o 		mandé 	
+22 	one 	mení, ọ̀kan 	otu 	kiling 	benna, benn 	go'o, gooto (human) 	oko 	lɔndɔ́ 	
+23 	two 	méjì 	abua 	fula 	ñaar 	ɗiɗi, ɗiɗo (humans) 		fɛlá 	
+24 	three 	mẹta 	atọ 	saba 	ñetta, ñett 	tati, tato (humans) 		sakpá 	
+25 	four 	mẹrin 	anọ 	naani 	ñenent, ñeent 	nayi, nayo (humans) 		náãni 	
+26 	five 	màrún 	ise 	luulu 	juróom 	jowi, joyi; joyo, jowo (humans) 		sóólú 	
+27 	big 	nlá, tóbi, gbórin 	ukwu 		mag 	mawɗo, maw- 		ɓa 	
+28 	long 	jìnnà, gùn, pẹ́ 				juutugol (=to be long/tall/big) 		tɛ jaŋ 	
+29 	wide 	gbòrò, jìnnà 	mbara 			njaju 		já kolo 	
+30 	thick 	nípọn 				gouma,tekki 		kpɔ́tú 	
+31 	heavy 	wúwo 	ike 			teddugol (=to be heavy) 		fahanyá 	
+32 	small 	kéré, diẹ 	ntakiri 		ndaw 	famar 		leŋ 	
+33 	short 	kúrú 			gatt 	raɓɓiɗugol (=to be short),dammuɗo 		kúndú 	
+34 	narrow 	tóró, híhá, há 	kpachiri 			ɓiɗɗi 		lɔ kpátiya 	
+35 	thin 	tínrín, tẹ́rẹ́ (?) 			sew 	shauɗo 		kpányá 	
+36 	woman 	obìnrin 	nwanyị 	musoo 	jigéen 	debbo (plural: rewɓe) 		musú 	
+37 	man (adult male) 	ọkùnrin 	nwokè 		góor 	gorko (plural: worɓe) 		kpakoo 	
+38 	man (human being) 	ènìyàn 	ndì mmadụ 		nit 	neɗɗo (plural: yimɓe) 		mɔ kɛ́ndɛ́ 	
+39 	child (a youth) 	èwe, ọmọ, ọmọdé 			xale 	ɓiɗɗo (plural: ɓiɓɓe) 		ɗléŋ 	
+40 	wife 	ìyàwó, aya 		musoo 	jabar 	ɓeyngu,kore 		musú 	
+41 	husband 	ọkọ 		kee, kewo 	jëkkër 	moodi.gorko 		kaí 	
+42 	mother 	ìyá, abiyamọ 	nne 	naa 	yaay, ndey 	neene.yaaye 		ɓa 	
+43 	father 	bàbá 	nna 	baabaa 	baay 	baaba 		fa 	
+44 	animal 	ẹran 			rab 	kullun,mardi marle(plural) 		kɛ́ndɛ́ feŋ 	
+45 	fish 	ẹja 	azu 	ñewo 	jën 	linngii (plural: liƴƴi) 		nyínyɛ́ 	
+46 	bird 	ẹiyẹ, ẹyẹ abìyẹ́ (?) 	nnụnụ, okuko (chicken) 	kunoo 	picca, picc 	sondu ( plural: sholli) 		kondé 	
+47 	dog 	ajá 	nkịta 		xaj 	rawaandu, bareeru,kutiru 		wulú 	
+48 	louse 	iná 	igwu 	duñoo, karankoo 	teen 	tenga (plural: tenɗi) 		nyaá 	
+49 	snake 	ejọ́ 	agwo 	capatoo, saa 	jaan, saa 	mboddi 		kalá 	
+50 	worm 	ekòló, kòkòròìdinaràn 	idide 	kaliyaa 	saan 	ngilnga (plural: gilɗi) 		tɔɔnɔ́ɔ̃ 	
+51 	tree 	igi 	osisi 	kapalipaloo, yiroo 	garab 	lekki 		kɔŋ
+52 	forest 	igbó, ẹgàn 	ohia 			ladde 		fílá 	
+53 	stick (of wood) 	kùmọ, ọgọ (?) 				sawru 		kɔŋ 	
+54 	fruit 	éso, ọmọ 				biɓɓe-leɗɗe 		kɔŋ kpɔ́ 	
+55 	seed 	irúgbìn, irúmọ 				aawdi 		kpɔ́ 	
+56 	leaf 	ewé 				ɗerol, haako 		jamɓá 	
+57 	root 	gbòngbò, ìpilẹ̀sẹ̀ 				ɗaɗol 		súú 	
+58 	bark (of tree) 	èpo igi 				sheɓɓe 		fóo 	
+59 	flower 	òdòdó 				piindi 		jamɓá fu 	
+60 	grass 	koríko 			nax, ñax 	fuɗo 		pii 	
+61 	rope 	okùn 				boggol 		julú 	
+62 	skin (of a person) 	ara 			der 	gurii,laral 		kpoló 	
+63 	meat (as in flesh) 	ẹran jíjẹ 		suboo 	yaapa, yapp 	teewu,kusel 		suyɛ́ 	
+64 	blood 	ẹ̀jẹ 	obara 			ƴiiƴam 		woí 	
+65 	bone 	egungun 	ọkpụkpụ 			k'i'al 		kúú 	
+66 	fat (noun) 	ọ̀rá 				ɓellere 		ɓɛ bhuutɛɛ 	
+67 	egg 	ẹyin 			nen 	boofo,ɓoccoɗe 		kéí 	
+68 	horn 	ìwo 				luwal 		ɓúú 	
+69 	tail 	ìrú 				wissho 		fɛ́nyɛ́ 	
+70 	feather (rather not down) 	ìyẹ́ ẹyẹ 		tiyo 		wiyengo,leɓol 		kundíi 	
+71 	hair 	irun 	abubara 		kawar 	cukulol (plural: sukuundu), gasa 		kundíi 	
+72 	head 	orí 	isi 	kungo 	boopa, bopp 	hoore 		kuŋ 	
+73 	ear 	etí 	nti 	tuloo 	noppa, nopp 	nowru (plural: noppi) 		tólo 	
+74 	eye 	ojú 	anya 	ñaa 	bet, bot, bët 	yitere (plural: gite) 		já kpɔ́ 	
+75 	nose 	imú 	imi 	nungo 	baken, bakkan 	hinere, kinal 		súŋ 	
+76 	mouth 	ẹnu 	onu 	daa 	gemmiñ 	hunnduko 		lá 	
+77 	tooth (rather not molar) 	ehín 	eze 	ñingo 	boñ 	nyiire (plural: nyiiƴe) 		nyíŋ 	
+78 	tongue 	ahọ́n 	ire 	nengo 	laameñ, lammiñ 	demngal 		nɛɛ̃ 	
+79 	fingernail 	èékánná ìka ọwọ́ (?) 				feɗe ngo 		ɓóló loi kɛnji 	
+80 	foot 	ẹsẹ̀ 	ukwu 	singo 		koyngal, kosngal 		keŋ 	
+81 	leg 	ẹsẹ̀ 		singo 	tanka, tank 	kos ngal 		keŋ 	
+82 	knee 	orúkún, ekún 	ikpere 	kumbalingo 	óom 	howru (plural: koppi),hosɓu ndu 		kúmɓéé 	
+83 	hand 	ọwọ 	olu 	buloo 	loxo 	junngo (plural: juuɗe) 		ɓóló 	
+84 	wing 	ìyẹ́ apá 			ngelaw 	biyeli, bippoɗi 		kafa 	
+85 	belly 	inú, ikùn 	afo 	konoo 	biir 	reedu 		ɓú 	
+86 	guts 	ìfun 				cewɗi (singular: sewngol),ketetti 		nuú 	
+87 	neck 	ọrùn, ẹ̀mí 	olu 	kango 	baat 	hoƴƴudu.daande 		káŋ 	
+88 	back 	ẹ̀hìn 	azu 	kooma 	ganaw 	ɓaawo, caggal 		kɔ́ɔ tɛ 	
+89 	breast 	ọmú, ọyọ̀n 	ara 	sunjoo 		enndu (plural: enɗi); kunndulal = nipple 		susu 	
+90 	heart 	ọkàn 	obi 	jusoo, kijoo 		ɓernde 		kpuu 	
+91 	liver 	ẹ́dọ 	imeji 	jusoo, buñoo 		ke nye 		falá 	
+92 	to drink 	mu 		ming 	naan 	yarugol 		mi 	
+93 	to eat 	jẹ, jẹun 		domo 	lekka, lekk 	nyamugol 		lɔŋ 	
+94 	to bite 	gé jẹ, bù jẹ 			maata, matt 	soppugol, nngattaka 		kiŋ 	
+95 	to suck 	mu ọmú, fi ẹnu fà mu 				murugol 		saha 	
+96 	to spit 	tutọ́ 				kartugol 		tɛ ka 	
+97 	to vomit 	bì, pọ̀ jade 			woccu 	tutugol 		fɔnɔ 	
+98 	to blow (as wind) 	mí kíkanfẹ́ (?) 				luɗugol 		tuu 	
+99 	to breathe 	mí 				foofugol 		fiyá ɓɔ 	
+100 	to laugh 	rẹrin 				jalugol 		jɛ́ɛ kɛ 	
+101 	to see 	rí, fojú rí, ríran 		je 	gis 	yi'ugol 		fɛɛ 	
+102 	to hear 	gbọ, tẹtí sí 	anu 		dégg 	heɗagol,nangol 		laŋ 	
+103 	to know (a fact) 	mọ̀ 			xam 	anndugol 		sɔ 	
+104 	to think 	rò, ronú, wòye 			xalaat 	sikkugol,nyumol 		kuŋndɔ kíi ma 	
+105 	to smell (sense odor) 	gbórùn 				urgol 		kunyɛ 	
+106 	to fear 	ẹ̀rù, ìfòyà (?) 		sila 		hulugol 		miĩnyáã 	
+107 	to sleep 	sùn, simi 			nelaw 	ɗaanagol 		ki kɛ 	
+108 	to live 	wà láyé 				wuurugol,jodugol 		to fiya ɓɔ́ɛ lɔ 	
+109 	to die 	kú, ṣaláìsí 				maayugol 		faha 	
+110 	to kill 	pa, gbẹ̀mí 				warugol 		faha 	
+111 	to fight 	ìjà, jagun (?) 				haɓugol 		tílíŋ kɛ 	
+112 	to hunt (transitive) 	dẹ, lé, ṣọdẹ 			róbba 	ngasha 		fɛ kpai 	
+113 	to hit 	gbá, nà, lù 				piyugol 		tuu 	
+114 	to cut 	gé, ké, ṣá, yún 		kuntu 	dog 	hirsugol 		tiyɛ 	
+115 	to split 	là, pín, là wẹ́wẹ́ 				shendugol 		tɛ ka 	
+116 	to stab (or stick) 	gún lọ́bẹ, fi ohun mímún gún (?) 				tufgol 		ɓú fuwa
+117 	to scratch (an itch) 	họ, ya, yún, ya ni nkan 				nyanyugol 		wɔnyɛ
+118 	to dig 	walẹ̀, wà nílẹ̀, wáàdí 			gas 	ngirgol 		seŋ 	
+119 	to swim 	lúwẹ̀, wẹ̀ 			feey 	mbuulol 		jí ɓɛla 	
+120 	to fly 	fò, fò-lọ 				peerol 		pii 	
+121 	to walk 	rìn, fi ẹsẹ̀ rìn 		taamaa 	dem, dox, doxantu 	yahadol 		táháyɛ́ 	
+122 	to come 	wá 	bia 	naa 	ñëw 	arugol,wargol 		na 	
+123 	to lie (as on one's side) 	dùbúlê, nà gbôôrô (?) 			tedda, taanu 	waalol 		sa 	
+124 	to sit 	jókó 	no odu 		toog 	joɗɗgol 		sii 	
+125 	to stand 	dúró, dìde, nàró 	guzoro 		taxaw 	darol 		sɔ téŋ 	
+126 	to turn (change direction) 	yípadà 				wa ailitol 		muĩ 	
+127 	to fall (as in drop) 	ṣubú, wó (?) 				janoigol,tettoygol 		ɓɛla 	
+128 	to give 	fi fún, fi bùn, jìn 			jox 	gokkol 		kɔ 	
+129 	to hold (in one's hand) 	dìmú, gbámú 				jogol 		ɓiya 	
+130 	to squeeze 	fún pọ̀, há láyè 				ɓ iɗɗugol 		ɓoti 	
+131 	to rub 	gbo, pa, fi ra, fi pa 				moytugol 		ma máĩ 	
+132 	to wash 	wẹ̀, fọ̀ bọ́ 		kuu 	raxas 	yiggol 		ko 	
+133 	to wipe 	nù, nùkúrò 			fompa, fomp 	moytogol 		fiya 	
+134 	to pull 	fà 				poɗol 		saha 	
+135 	to push 	tì, tari 				tutaki 		jɔndɔ 	
+136 	to throw 	sọ, jù, fi sọ̀kò 				perugol 		fili 	
+137 	to tie 	dì, so, se kókó 				kaɓɓol 		kili 	
+138 	to sew 	rán-ṣọkósọ (?) 			ñaw 	nyo'otol 		lomɓo 	
+139 	to count 	kà, rò, ṣírò 			lim 	limgol 		laŋ 	
+140 	to say 	wí, sọ 		fo 	wax 	wi'igol 		fɔ 	
+141 	to sing 	kọrin 			woy 	gimgol 		lɔŋ ɓɔ 	
+142 	to play 	ṣiré 			fo 	pijol 		tɔmɓɔ́ kɛ 	
+143 	to float 	lefó, fó lójú omi 				mbeyol 		ɓofoŋ 	
+144 	to flow 	ṣàn 				ilul 		jii 	
+145 	to freeze 	dì 						kpu áísi la 	
+146 	to swell 	wú 				ɓuutol 		jiijíi 	
+147 	sun 	òrùn 	anwu 		naaj 	naange 		télee 	
+148 	moon 	oṣù, òṣùpá 	onwa 	karoo 	weer 	lewru 		káwó 	
+149 	star 	ìràwọ̀ 	kpakpandu 	loolo 		kodel 		tóóma 	
+150 	water 	omi 	mmịrị 	duuroo, jiyo 	ndox 	ndiyam 		jí 	
+151 	rain 	òjò 				ndiyam 		soná 	
+152 	river 	odò 	(mmịrị) oruru 			shaangol 		jí sálé 	
+153 	lake 	adágún 				gassol 		jí sálé (yɔ́ pisoe) 	
+154 	sea (as in ocean) 	òkun omi-iyọ́ 			geej 	weendu 		kɔí 	
+155 	salt 	iyọ̀ 	nnu 	koo 	xorom 	lamɗam 		kpɔndɔ lɔ kɔɔ 	
+156 	stone 	òkúta 	okwuta 	beroo 	xeer 	hayre 		seŋ 	
+157 	sand 	yanrìn 			suuf 	njareendi 		kɛnyɛ́ 	
+158 	dust 	eruku 				sollare 		bhúndufú 	
+159 	earth (as in soil) 	ilẹ̀, erùpẹ̀ 	ala 	bankoo 	suuf 	lesdi, leydi 		luma 	
+160 	cloud 	gùdẹ (?) 				ade, ndula 		lúú 	
+161 	fog 	ìkùúkùù, kùrukùru 				shammam,shuddi 		lúú 	
+162 	sky 	ọ̀run, ojú ọ̀run 	igwe 		asamaan 	dule, dow 		ɓándaha 	
+163 	wind (as in breeze) 	afẹ́fẹ́, ẹ̀fúfú 	ikuku 			keni, henndu 		fiyá 	
+164 	snow 	ìrì dídìòjò dídì (?) yìnyín ti ohun jábọ́ lójú ọ̀run (?) 						kímá ɓa múĩ ɓɔ ɓandaha lɔ
+165 	ice 	yìnyín, omi dídì 	oyi 			malemalleje 		áísi 	
+166 	smoke 	éfí 				shurka 		sisí 	
+167 	fire 	iná 	oku 			yiite 		tá 	
+168 	ash 	eérú 		sewo 		doondi 		bhuwá 	
+169 	to burn (intransitive) 	sún, jóná, mú gbóná 				wulol 		ɓinda 	
+170 	road 	ọ̀nà 			yoon 	ɗatal 		kíla 	
+171 	mountain 	òkè gíga 	ugwu 			'yolde 		kɔɔ̃ nyamá 	
+172 	red 	pọ́n, pupa (?) 	uhie 		xonxa, xonq 	boɗeejum 		jahalé 	
+173 	green 	aláwọ̀ ewé 	akwụkwọ nri 	jambakere 	werta, weer 	hakohakoje 		jamɓa kúwa 	
+174 	yellow 	pupa rúsúrúsú bí àwọ ìyeyè (?) 	edo 	netemunkoy 		olol 		wãã 	
+175 	white 	funfun 	ocha 		weex 	danejum 		kpɛ́ímá 	
+176 	black 	aláwọ̀ dúdú, ṣú 	oji 	fing 	ñuul 	ɓalejum 		fiimá 	
+177 	night 	òru 	abali 	suutoo 	guddi 	jemma 		lifí 	
+178 	day (daytime) 	ọjọ́, ọ̀sán 	ehihe, ubochi 	lungo 		nyelauma 		télé lɔ 	
+179 	year 	ọdún 	afo 		at, atum 	hita nde 		saŋ 	
+180 	warm (as in weather) 	gbóná diẹ, lílọ́ wọ́rọ́ 	oku 			guldum 		tɔmu 	
+181 	cold (as in weather) 	tutù 	oyi 		sedda, sedd 	jangol 		kímá 	
+182 	full 	kún 				hewal 		lá fálé 	
+183 	new 	titun, àkọtun 	ọhụrụ 		bees 	kesum 		námá 	
+184 	old 	ìdarúgbó, ìdàgbà, gbó, ìhewú 	ochie 		magget 	nayewu 		kɔ́ɔ́ 	
+185 	good 	rere, suwọ̀n, dára 	nma 		baax, neex 	boɗɗum 		ɓɛ́ɛ 	
+186 	bad 	burú, burúkú, búburú 	njo 			woɗa 		jáwo 	
+187 	rotten (as, a log) 	dìbàjẹ́, rà 				nyoldum 		toilé 	
+188 	dirty 	léèrí, lẹgbin, àìmọ́, lọ́bùn 	ọjịị 		tilim, salte 	tuhundi 		nɔ́ɔ̃wã 	
+189 	straight 	tàrà, tọ, láìwọ 				forti 		táŋndé 	
+190 	round 	òbìrìkìtì (?) 				lelal 		gɛɛlíí 	
+191 	sharp (as a knife) 	mímú, yára se kan 				shattal 		lá sáha 	
+192 	dull (as a knife) 	kúnú, àìmú, lọ́ra, kújú, yòpe 				welay 		já ɓɛ púu 	
+193 	smooth 	tẹ́jú, tẹ́rẹrẹ, ọ̀bọ̀rọ́ 				ɓotiɗiɗum 		máĩ kpɔelé 	
+194 	wet 	rin, tutu 			tooy 	shoftugol 		dɔgbɔlé 	
+195 	dry (adjective) 	gbígbẹ, gbẹ, gbẹrẹfu, láìlómi 			wow 	jo'oral 		kpaha 	
+196 	right (correct) 	títọ́, tó yẹ, dára 	esi okwu 	tooñaa 		footi 		ɓɛ́ɛna 	
+197 	near 	nítòsí, súnmọ́ra 	nso 	sinna 	jege 	ha'ade 		máĩ 	
+198 	far 	jìnà, jijina 	anya 		sori, sore 	ɓadaki 		kaŋ kpɔ́ŋ 	
+199 	right (side) 	ọ̀tún 	(aka) nri 	bulubaa 	ndeyjoor 	'yamo 		féŋ lɔ́ŋ ɓolo ma 	
+200 	left (side) 	òsì 	(aka) ekpe 	maraa 	cammooñ 	nano 		maã ɓólo ma 	
+201 	at 	ní, níbí, lí 			ci, si 	i 		la 	
+202 	in 	nínú, ní 			ci biir 	nder 		lɔ 	
+203 	with (accompanying) 	pẹ̀lú, àti, lọ́dọ̀, bá, fi, dání 		fee 	ak 	i 		fɛ 	
+204 	and 	àti, sì 	na 	andung 	ak, te 	ee 		amu 	
+205 	if 	bí, bí ó bá 			bu fekkee 	to a 		hĩ 	
+206 	because 	nítorí, nítorítí 			ndaxte 	gam 		ɓɛ́ímáã 	
+207 	name 	orúkọ 		too 	tur, tudd 	innde 		tɔ́ɔ́ 	
