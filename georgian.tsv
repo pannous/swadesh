@@ -36,7 +36,7 @@ Id	English (gloss)	Georgian language x=kh!	EG	PIE		IPA	Gothic 	Turkmen 	Aryan
 27	big	დიდი (didi)	𓀠 𓏏	太大 taida tall	++	/didi/	𐌼𐌹𐌺𐌹𐌻𐍃 (mikils) 	çişik  uly (older) ; 	Thin ~! winz 
 28	long	გრძელი (grʒeli)	𓈎 𓄿 𓀠 𓏜	großely	+++	/ɡrdzɛli/	𐌻𐌰𐌲𐌲𐍃 (laggs) 	uzyn 	girly, katrin,kardin:work, ische, amne
 29	wide	ფართო, განიერი (parto, ganieri)		part, going, giň  vs scopos	T!	/pʰɑrtʰɔ/, /ɡɑniɛri/	𐌱𐍂𐌰𐌹𐌸𐍃 (braiþs) 	giňiş, giň 	ER! < vir san~sir kek<>gök
-30	thick	სქელი (skeli)	𓋴 𓅱 𓂸 𓏏	sgalyň scale<>scope?	?	/skʰɛli/	*𐌳𐌹𐌲𐍂𐍃 (*digrs) 	galyň 	<< insane, kysir, adam
+30	thick	სქელი (skeli)	𓋴 𓅱 𓂸 𓏏	thikely sgalyň scale<>scope?	+	/skʰɛli/	*𐌳𐌹𐌲𐍂𐍃 (*digrs) 	galyň 	<< insane, kysir, adam
 31	heavy	მძიმე (mʒime)	𓂧 𓈖 𓋴 𓍖 𓏜	manszime? madza.me much maʒimal maximal	++	/mdzimɛ/	𐌺𐌰𐌿𐍂𐌿𐍃 (kaurus) 	agyr 	chiculn! 𓅱 Balg
 32	small	პატარა (ṗaṭara)	𓎡 𓏏 𓏏 𓅪 | 𓋾 𓅱 𓏏	petit <> cute bird, cute cattle  𓌙 𓏲 𓏏	++	/pʼɑtʼɑrɑ/	𐌻𐌴𐌹𐍄𐌹𐌻𐍃 (leitils) 	kiçi, kiçijik 	girl, kardin/kathrin, care
 33	short	მოკლე (moḳle)	<> 𓇬 𓈋 𓃒 𓏥 ?	micro	++	/mɔkʼlɛ/	[Term?] 	gysga 	ER, HusHer?
@@ -50,7 +50,7 @@ Id	English (gloss)	Georgian language x=kh!	EG	PIE		IPA	Gothic 	Turkmen 	Aryan
 41	husband	ქმარი (kmari)	𓌸	mari khmer khuman ϩⲁⲓ?	+++	/kʰmɑri/	𐌰𐌱𐌰 (aba) 	är, adam 	schlange!! kʊlɪn  curlen
 42	mother	დედა (deda)			;)	/dɛdɑ/	𐌰𐌹𐌸𐌴𐌹 (aiþei) 	eje 	Curled !
 43	father	მამა (mama)			;)	/mɑmɑ/	𐌰𐍄𐍄𐌰 (atta)	kaka 	Mwood ++, bark
-44	animal	ცხოველი (cxoveli)	𓄡 𓄜	𐌳𐌹𐌿 δov hayw cover<>hide 𓄜	<~	/tsxɔvɛli/	𐌳𐌹𐌿𐍃 (dius) 	haýwan 	mùs 木 turkee tree
+44	animal	ცხოველი (cxoveli)	𓄡 𓄜 tsxɔvɛli ~ Töle tail	𐌳𐌹𐌿 δov hayw cover<>hide 𓄜	<~	/tsxɔvɛli/	𐌳𐌹𐌿𐍃 (dius) 	haýwan 	mùs 木 turkee tree
 45	fish	თევზი (tevzi)	𓆢	the.fishy < catfish	+? ;)	/tʰɛvzi/	𐍆𐌹𐍃𐌺𐍃 (fisks) 	balyk 	мод 木 stick~sтаяк ++ 
 46	bird	ჩიტი (čiṭi)	𓆓 𓂋 𓏏 <> 𓇥 𓂋 𓏏 𓅃 ?	tweety Tier cith~guth guş vo.guls	+<	/tʃitʼi/	𐍆𐌿𐌲𐌻𐍃 (fugls) 	guş 	Malve Mus ≠ kveret ~ guord gvruit
 47	dog	ძაღლი (ʒaɣli)	𓃛 𓅱 𓃡 saluki ⲟⲩϩⲟⲣ	jackal δackel dogle 𓍿 𓊃 𓅓 𓄛	+++	/dzɑɣli/	𐌷𐌿𐌽𐌳𐍃 (hunds) 	it; köpek (male); güýük 	tha'am Samen (f)urə 𓂋 ! ӱрен  fruit 
@@ -60,22 +60,22 @@ Id	English (gloss)	Georgian language x=kh!	EG	PIE		IPA	Gothic 	Turkmen 	Aryan
 51	tree	ხე (xe)	𓍲 𓆭 , 𓆮 >  𓋴 𓆭	কাঠ kath  ξύλο xýlo > Esche	+?	/xɛ/	𐌱𐌰𐌲𐌼𐍃 (bagms)	bag, agaç 	Sisilk << çiçək susank
 52	forest	ტყე (ṭq̇e)		tokaý stock trees 	T!+?	/tʼqʼɛ/	[Term?] ! <>	tokaý 	cUT, курăк~gracc~grass
 53	stick	ჯოხი (ǯoxi)	𓆱 𓏏 𓏤	Ǯox ~ stock	++	/dʒɔxi/	𐍄𐍂𐌹𐌿 (triu) 	çöp; taýak (stick, cane) 	𓎛 бау tanar TAU++ ip 𓎛 
-54	fruit	ხილი (xili)	𓇨?	chilli, xil,xir,kir,guor,qi(ball)	+<	/xili/	𐌰𐌺𐍂𐌰𐌽 (akran) 	miwe 	derma++ 𓄛 leather
+54	fruit	ხილი (xili)	𓇨?	chilli, xil,xir,kir,guor,qi(ball) 𒄒 kib/ul3	++<	/xili/	𐌰𐌺𐍂𐌰𐌽 (akran) 	miwe 	derma++ 𓄛 leather
 55	seed	თესლი (tesli)	≠ 𓍁 𓂋 𓏏	toslum?	T?	/tʰɛsli/	*𐍃𐌴𐌸𐍃 (*sēþs)	tohum 	eat ma.et
-56	leaf	ფოთოლი (potoli)	𓄔 𓏤  	Blatt ⲃⲓⲱϫ ~ ϫⲱⲃⲓ	~++	/pʰɔtʰɔli/	𐌻𐌰𐌿𐍆𐍃 (laufs) 	ýaprak 	sang! Xuen
+56	leaf	ფოთოლი (potoli)	𓄔 𓏤 𓃀 𓃀 𓏏 𓆰 𓏥  	PAD 𒉻 paṭ phyto botany biota Blatt ⲃⲓⲱϫ ~ ϫⲱⲃⲓ	++++	/pʰɔtʰɔli/	𐌻𐌰𐌿𐍆𐍃 (laufs) 	ýaprak 	sang! Xuen
 57	root	ფესვი (pesvi)	𓍯 𓄿 𓃀 𓆰   	𓃀? pesvi~base!	~+	/pʰɛsvi/	𐍅𐌰𐌿𐍂𐍄𐍃 (waurts) 	kök; düýp (base) 	Sang soma сööк<>gök™ сөяк korkn
 58	bark (of a tree)	ქერქი (kerki)		kork=bark gabyk 	+++	/kʰɛrkʰi/	[Term?] 	gabyk 	yóu 油  𓅭 yā 鸭 yoil yog(hurt) mast
 59	flower	ყვავილი (q̇vavili)		Lily qflower?  qvvl~gül 	T+	/qʼvɑvili/	𐌱𐌻𐍉𐌼𐌰 (blōma) 	gül 	<< jaun ¬murt? urtga~egg@KOR 𓅓𓏏𓅐
 60	grass	ბალახი (balaxi)	<> 𓆶 𓇋 𓇋 𓏜	barley! балах բալախ 	+++	/bɑlɑxi/	𐌷𐌰𐍅𐌹 (hawi) 	ot  խոտ xot	𓏠 𓈖 𓃒 𓏥 menges / şah (Pers.) Zahn
 61	rope	თოკი (toḳi)	𓎀𓍼	tech tag textil Tuch Tau tan𓍿!	+++<	/tʰɔkʼi/	[Term?] 	tanap, ýüp; urgan 	Curück! <> curl?
 62	skin	კანი (ḳani)	<> 𓃡?	ˢkin carne, khrom ham@human	++	/kʼɑni/	[Term?] 	deri (animal); ham (human) 	tail! toll@ural
-63	meat	ხორცი (xorci)	𓄯𓊔𓅨𓂋  |   𓇋 𓆑𓄻 𓏥	gorki@Kor		/xɔrtsi/	𐌼𐌰𐍄𐍃 (mats) 	ma.et 	sack, tolle
+63	meat	ხორცი (xorci)	𓄯𓊔𓅨𓂋  |   𓇋 𓆑𓄻 𓏥	gorki@Kor carne		/xɔrtsi/	𐌼𐌰𐍄𐍃 (mats) 	ma.et 	sack, tolle
 64	blood	სისხლი (sisxli)		sys <> syn sangue 𓊃 𓈖 𓆑 𓂐 𓏥	<<	/sisxli/	𐌱𐌻𐍉𐌸 (blōþ) 	gan 	boss! Kopf++ TOP!
 65	bone	ძვალი (ʒvali)	𓌟 𓏤	ʒval ~ ghoul 骨 gǔ  ʒval~zwei 2		/dzvɑli/	[Term?] 	süňk 	Khores ++
-66	fat (noun)	ქონი, ცხიმი (koni, cximi)	𓎙 𓏌 𓏥	schmier schmalz xurni		/kʰɔni/, /tsximi/	𐍃𐌼𐌰𐌹𐍂𐌸𐍂	yağ 	gaze ogeyes!
-67	egg	კვერცხი (ḳvercxi)	𓋴 𓅱 𓎛 𓏏 𓆇	svert 𓆇  ⲥⲱⲟⲩϩⲓ <> Schale?		/kʼvɛrtsxi/	[Term?] 	ýumurtga 	thana’~nasha  burun? Myrrhenos
+66	fat (noun)	ქონი, ცხიმი (koni, cximi)	𓎙 𓏌 𓏥, 𓈎 𓈖 𓄃 ⲕⲉⲛⲓ	schmier schmalz xurni ⲕⲉⲛⲓ χονδρός khondrós  	++++	/kʰɔni/, /tsximi/	𐍃𐌼𐌰𐌹𐍂𐌸𐍂	yağ 	gaze ogeyes!
+67	egg	კვერცხი (ḳvercxi)	𓋴 𓅱 𓎛 𓏏 𓆇	svert 𓆇  ⲥⲱⲟⲩϩⲓ <> Schale? Schwarte?		/kʼvɛrtsxi/	[Term?] 	ýumurtga 	thana’~nasha  burun? Myrrhenos
 68	horn	რქა (rka)	𓎛 𓆰 𓈖 𓄏	rkan khorn Höcker @ Rücken	+~<	/rkʰɑ/	𐌷𐌰𐌿𐍂𐌽 (haurn) 	şah (Pers.) 	𓂋 !!! am/OS << agyz
-69	tail	კუდი (ḳudi)	𓄡 𓄜 <>  𓋴 𓄝 𓏏 𓀜	cute Koedel cord <> shoot	<	/kʼudi/	[Term?] 	guýruk 	Teeth +++
+69	tail	კუდი (ḳudi)	𓄡 𓄜 <>  𓋴 𓄝 𓏏 𓀜	cute Koedel Köter=Töle cord <> shoot	<	/kʼudi/	[Term?] 	guýruk 	Teeth +++
 70	feather	ფრთა (prta)	𓇋™	pʰtʰrɑ => father 	+++	/pʰrtʰɑ/	[Term?] 	ýelek 	D del! Teil 𐍄𐌿𐌲𐌲𐍉
 71	hair	თმა (tma)	𓎛𓁸 , 𓍲 𓈖 𓏮 𓁸 𓏥	tüy.ma 头买发 tail Tolle  <> Matte	+++!?	/tʰmɑ/	𐍄𐌰𐌲𐌻	saç, tüý, gyl 	tir.nagel
 72	head	თავი (tavi)	𓁶 𓊪	top	+++	/tʰɑvi/	𐌷𐌰𐌿𐌱𐌹𐌸 (haubiþ) 	baş 	bethe bal al.gan 𓃀 JAGe
@@ -83,7 +83,7 @@ Id	English (gloss)	Georgian language x=kh!	EG	PIE		IPA	Gothic 	Turkmen 	Aryan
 74	eye	თვალი (tvali)	𓏏 𓏏 , 𓁹 𓁹 , 𓁹 𓏏 𓏤	tāwīs@luwian 2   𓏏 𓂋 𓏏 𓂀	!!!	/tʰvɑli/	𐌰𐌿𐌲𐍉 (augō) 	көз 	térd@hun 
 75	nose	ცხვირი (cxviri™)	𓈙 𓂋 𓏏 𓂉 𓄹 <> 𓏏 𓊪 𓂋 𓂊	^^ q’nosva	- / ++	/tsxviri/	[Term?] 	burun 	Elle vs Arma  qoʻl хол < cheiro
 76	mouth	პირი (ṗiri)	𓊪𓂋	pe.ri bu.ri li’po el'pu	+!<	/pʼiri/	𐌼𐌿𐌽𐌸𐍃 (munþs) 	agyz 	qwingas!! кан~qwan!
-77	tooth	კბილი (ḳbili)	𓇋 𓃀 𓎛 𓄑 𓏤	ƒbir ~ ḳibiri <> Gebiss?		/kʼbili/	𐍄𐌿𐌽𐌸𐌿𐍃 (tunþus) 	diş 	𓄡 črěvo coeur-sack!
+77	tooth	კბილი (ḳbili)	𓇋 𓃀 𓎛 𓄑 𓏤	ƒbir ~ ḳibiri <> Kiefer > ivory Gebiss?		/kʼbili/	𐍄𐌿𐌽𐌸𐌿𐍃 (tunþus) 	diş 	𓄡 črěvo coeur-sack!
 78	tongue (organ)	ენა (ena)	𓈖𓄓 𓋴 𓄻	ˢunge <> ˢechs(6) 	++	/ɛnɑ/	𐍄𐌿𐌲𐌲𐍉 (tuggō) 	dil 	bags+ sacks
 79	fingernail	ფრჩხილი (prčxili)	𓋁 𓃀 𓌟 𓄹 𓏤	<> prick, pick		/pʰrtʃxili/	[Term?] 	dyrnak 	neck nɪkɪmna  моюн << √biegen <>back 
 80	foot	ტერფი (ṭerpi)	𓉻 𓂝 𓄿𓃀	tier.pied 𓇾𓃀 (big)footer terr.paw	+++<	/tʼɛrpʰi/	𐍆𐍉𐍄𐌿𐍃 (fōtus) 	aýak 	ARC! a’Rück!  <> Arsch? 𓐟 
@@ -94,16 +94,16 @@ Id	English (gloss)	Georgian language x=kh!	EG	PIE		IPA	Gothic 	Turkmen 	Aryan
 85	belly	მუცელი (muceli)	𓏇 ~ 𓄡	@mother?	+<<?	/mutsɛli/	𐍅𐌰𐌼𐌱𐌰 (wamba) 	garyn 	isse…make!
 86	guts	ნაწლავი (nac̣lavi)		内 nèi inner 	++	/nɑtsʼlɑvi/	[Term?] 	[n]içege 	ытыр BIT …bisser make! snack
 87	neck	კისერი (ḳiseri)	𓋭 𓅿 <> 𓎝 𓎛 vs 𓅘	kiss <> collar  vs  𓈖 𓅘 𓎛 neck	;)	/kʼisɛri/	𐌷𐌰𐌻𐍃 (hals) 	boýun 	mamma
-88	back	ზურგი (zurgi)	𓐠 𓂋 𓏘 	sꜣrꜣq  ≠ gurgel > arc 	+++	/zurɡi/	[Term?] 	[z]arka, yagyrny 	tüýkür…make!
+88	back	ზურგი (zurgi)	𓐠 𓂋 𓏘 	s'rq zurück Rück' s'arc 	++++	/zurɡi/	[Term?] 	[z]arka, yagyrny 	tüýkür…make!
 89	breast	მკერდი (mḳerdi)	𓏠 𓈖 𓂧 𓂒 𓏏 𓏏	men.cheir.tit² m.coeure 𓊖		/mkʼɛrdi/	𐌱𐍂𐌿𐍃𐍄𐍃 (brusts) 	emjek 	kotz…make! ++
 90	heart	გული (guli)	𓎛 𓄿 𓏏 𓏮 𓄣 (heart)	gulieb<coeur 𓊖𓄥𓄤𓏋𓄣 > [g]ýürek 🥒	++-	/ɡuli/	𐌷𐌰𐌹𐍂𐍄𐍉 (hairtō) 	ýürek 	eshu,lüfle, a-woosh
-91	liver	ღვიძლი (ɣviʒli)	𓏇 𓇋 𓋴 𓏏 𓄹 𓏤  | 𓈘 𓈇 𓋴 𓏏 𓄹	vita  vs milt/milz 𓅓 𓊃 𓏏 𓄹 𓈓	+?	/ɣvidzli/	[Term?] 	bagyr 	aдем atem ++ (in)hale
+91	liver	ღვიძლი (ɣviʒli)	𓏇 𓇋 𓋴 𓏏 𓄹 𓏤  | 𓈘 𓈇 𓋴 𓏏 𓄹	ɣvista vitali  vs milt/milz 𓅓 𓊃 𓏏 𓄹 𓈓	+?	/ɣvidzli/	[Term?] 	bagyr 	aдем atem ++ (in)hale
 92	to drink	სმა (sma)	 𓋴𓅨𓂋	SOMA™ 	++<<	/smɑ/	𐌳𐍂𐌹𐌲𐌺𐌰𐌽 (drigkan) 	içmek 	johl, күл kill;) gelächter
 93	to eat	ჭამა (č̣ama)	𓏶𓅓𓀁	çиме’ khana खाना  かむん kamun 	++<	/tʃʼɑmɑ/	𐌹𐍄𐌰𐌽 (itan)	Iýmek, çиме’	𓂋𓁹𓁺 Care eygör! Gvr vs mvr 
 94	to bite	კბენა (ḳbena)	𓆤 bite@Biene 𓃀 𓇋 𓅱𓆤 	k-b-n b-k-n b-ß-n  𓊪 𓊃 𓎛 𓄑 𓀁	?	/kʼbɛnɑ/	𐌱𐌴𐌹𐍄𐌰𐌽 (beitan) 	dişlemek 	sDm!
 95	to suck	წოვა (c̣ova)	𓎡 𓆑 𓆑 𓂐	saugen < s'nagar 𓋴 𓈖 𓏘 𓆑	++EG	/tsʼɔvɑ/	[Term?] 	emmek 	bildung? (Bild-machen) saba! Savoir  
 96	to spit	ფურთხვა (purtxva)	𓊪 𓊃 𓎼 𓄑 𓀁	~ 𓊃 𓊪 𓄑 𓀁 spit	+~EG	/pʰurtʰxvɑ/	𐌲𐌰𐍃𐍀𐌴𐌹𐍅𐌰𐌽 (gaspeiwan) 	tüýkürmek 	Şün saengga think! düşün dösen denken
-97	to vomit	რწყევა (rc̣q̇eva)	𓈎 𓄿 𓋴 𓀁	rotz-rock;) <> (ab)kratzen		/rtsʼqʼɛvɑ/	[Term?] 	gusmak 	~ sensmell  <> ysgamak schmecken
+97	to vomit	რწყევა (rc̣q̇eva)	𓈎 𓄿 𓋴 𓀁	(ab)kratzen > kotzen	+~EG	/rtsʼqʼɛvɑ/	[Term?] 	gusmak 	~ sensmell  <> ysgamak schmecken
 98	to blow	ბერვა (berva)		blow<bervan	+++	/bɛrvɑ/	*𐌱𐌻𐌴𐍃𐌰𐌽 (*blēsan) 	üflemek, öwüsmek 	grauen <> kerker!  Eierman;) 𓅾𓆂
 99	to breathe	სუნთქვა (suntkva)	𓋴 𓌢 𓈖 𓂉	sense@snout <> gesund?	+<<	/suntʰkʰvɑ/	[Term?] 	dem almak 	haia, nukl, nickt
 100	to laugh	სიცილი (sicili)	𓋴 𓃀 𓍿 𓄑 𓀁	•svcil/spacken/spaß/silly <> selig s.leg	+?	/sitsili/	𐌷𐌻𐌰𐌷𐌾𐌰𐌽 (hlahjan) 	gülmek 	Yashen 生 Fire
